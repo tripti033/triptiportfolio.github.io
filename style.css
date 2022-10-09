@@ -734,12 +734,12 @@
   }
 
   .cpp {
-    width: 70%;
+    width: 50%;
     animation: load9 3s normal forwards;
   }
 
   .py {
-    width: 50%;
+    width: 90%;
     animation: load10 3s normal forwards;
   }
 
