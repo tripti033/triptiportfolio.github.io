@@ -714,7 +714,7 @@
   }
 
   .tw {
-    width: 80%;
+    width: 60%;
     animation: load5 3s normal forwards;
   }
 
@@ -799,7 +799,7 @@
     }
 
     100% {
-      width: 80%;
+      width: 60%;
     }
   }
 
