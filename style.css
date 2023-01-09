@@ -25,7 +25,7 @@
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #661144;
+    background-color: #601d45;
     z-index: 99;
     padding-top: 0;
     padding-bottom: 0;
@@ -284,8 +284,8 @@
     background-size: 800% 400%;
     padding: 9px 20px;
     display: inline-block;
-    top:78%;
-    left: 58%;
+    top:176%;
+    left: 12%;
     height:40px;
     position: absolute;
     z-index: 1;
@@ -550,12 +550,12 @@
   }
 
   .about .about-title h1 {
-    margin: 100px;
+    margin: 85px;
     text-transform: uppercase;
   }
 
   .about .about-content {
-    margin: 50px;
+    margin: 20px;
     display: flex;
   }
 
@@ -576,6 +576,7 @@
   .des {
     width: 600px;
     font-size: 25px;
+    padding: auto;
   }
 
 
@@ -1442,3 +1443,5 @@
   .block {
     display: none;
   }
+
+
