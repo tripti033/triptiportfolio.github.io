@@ -1,1 +1,1 @@
-# triptiportfolio.github.io
+# https://triptifirstportfolio.netlify.app/
